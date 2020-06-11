@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CommunityCurrency/static/css/main.e5035dff.chunk.css",
+    "main.js": "/CommunityCurrency/static/js/main.5795be62.chunk.js",
+    "main.js.map": "/CommunityCurrency/static/js/main.5795be62.chunk.js.map",
+    "runtime-main.js": "/CommunityCurrency/static/js/runtime-main.1d7b3080.js",
+    "runtime-main.js.map": "/CommunityCurrency/static/js/runtime-main.1d7b3080.js.map",
+    "static/js/2.4a6231cb.chunk.js": "/CommunityCurrency/static/js/2.4a6231cb.chunk.js",
+    "static/js/2.4a6231cb.chunk.js.map": "/CommunityCurrency/static/js/2.4a6231cb.chunk.js.map",
+    "index.html": "/CommunityCurrency/index.html",
+    "precache-manifest.d935f21e87b9aedd7fe31859ea5dd627.js": "/CommunityCurrency/precache-manifest.d935f21e87b9aedd7fe31859ea5dd627.js",
+    "service-worker.js": "/CommunityCurrency/service-worker.js",
+    "static/css/main.e5035dff.chunk.css.map": "/CommunityCurrency/static/css/main.e5035dff.chunk.css.map",
+    "static/js/2.4a6231cb.chunk.js.LICENSE.txt": "/CommunityCurrency/static/js/2.4a6231cb.chunk.js.LICENSE.txt",
+    "static/media/cc_logo.png": "/CommunityCurrency/static/media/cc_logo.b36dc237.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d7b3080.js",
+    "static/js/2.4a6231cb.chunk.js",
+    "static/css/main.e5035dff.chunk.css",
+    "static/js/main.5795be62.chunk.js"
+  ]
+}
