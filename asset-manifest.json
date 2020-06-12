@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CommunityCurrency/static/css/main.e5035dff.chunk.css",
-    "main.js": "/CommunityCurrency/static/js/main.2fe1523d.chunk.js",
-    "main.js.map": "/CommunityCurrency/static/js/main.2fe1523d.chunk.js.map",
+    "main.js": "/CommunityCurrency/static/js/main.f5f43cc6.chunk.js",
+    "main.js.map": "/CommunityCurrency/static/js/main.f5f43cc6.chunk.js.map",
     "runtime-main.js": "/CommunityCurrency/static/js/runtime-main.1d7b3080.js",
     "runtime-main.js.map": "/CommunityCurrency/static/js/runtime-main.1d7b3080.js.map",
     "static/js/2.4a6231cb.chunk.js": "/CommunityCurrency/static/js/2.4a6231cb.chunk.js",
     "static/js/2.4a6231cb.chunk.js.map": "/CommunityCurrency/static/js/2.4a6231cb.chunk.js.map",
     "index.html": "/CommunityCurrency/index.html",
-    "precache-manifest.737dc838b988be47f76b0e88de1cbf48.js": "/CommunityCurrency/precache-manifest.737dc838b988be47f76b0e88de1cbf48.js",
+    "precache-manifest.081020b635712528df2a3d2a2cfd88ad.js": "/CommunityCurrency/precache-manifest.081020b635712528df2a3d2a2cfd88ad.js",
     "service-worker.js": "/CommunityCurrency/service-worker.js",
     "static/css/main.e5035dff.chunk.css.map": "/CommunityCurrency/static/css/main.e5035dff.chunk.css.map",
     "static/js/2.4a6231cb.chunk.js.LICENSE.txt": "/CommunityCurrency/static/js/2.4a6231cb.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1d7b3080.js",
     "static/js/2.4a6231cb.chunk.js",
     "static/css/main.e5035dff.chunk.css",
-    "static/js/main.2fe1523d.chunk.js"
+    "static/js/main.f5f43cc6.chunk.js"
   ]
 }
