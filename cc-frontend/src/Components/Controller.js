@@ -3,7 +3,7 @@ import Login from "./Login";
 import Settings from "./Settings";
 import Dashboard from "./Dashboard";
 import CollectionBoxesPage from "./CollectionBoxesPage";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as BrowserRouter, Router, Switch, Route, Link } from "react-router-dom";
 
 export default function Controller(props) {
   return (
