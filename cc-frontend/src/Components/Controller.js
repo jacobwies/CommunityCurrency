@@ -7,7 +7,7 @@ import { BrowserRouter as HashRouter, Router, Switch, Route, Link } from "react-
 
 export default function Controller(props) {
   return (
-    <HashRouter basename='/CommunityCurrency/' forceRefresh={true}>
+    <HashRouter basename='/CommunityCurrency/'>
       <Switch>
         <Route path="/dashboard">
           <Dashboard />
