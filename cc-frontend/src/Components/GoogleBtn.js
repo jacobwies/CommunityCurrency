@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { GoogleLogin, GoogleLogout } from 'react-google-login';
 
 
-const CLIENT_ID = '150789233013-132v8e76n7m9uiid6hqj3caibgubi9jp.apps.googleusercontent.com';
+const CLIENT_ID = '150789233013-48jt8dshg4abh9ivjgsfnn2c1d02ao1r.apps.googleusercontent.com';
 
 
 class GoogleBtn extends Component {

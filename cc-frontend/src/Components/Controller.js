@@ -3,11 +3,11 @@ import Login from "./Login";
 import Settings from "./Settings";
 import Dashboard from "./Dashboard";
 import CollectionBoxesPage from "./CollectionBoxesPage";
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as HashRouter, Router, Switch, Route, Link } from "react-router-dom";
 
 export default function Controller(props) {
   return (
-    <Router forceRefresh={true}>
+    <HashRouter basename='/CommunityCurrency/' forceRefresh={true}>
       <Switch>
         <Route path="/dashboard">
           <Dashboard />
@@ -22,6 +22,6 @@ export default function Controller(props) {
           <Login />
         </Route>
       </Switch>
-    </Router>
+    </HashRouter>
   );
 }
